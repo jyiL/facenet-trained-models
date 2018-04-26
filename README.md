@@ -2,6 +2,7 @@
 
 * Provide facenet training model download, regularly updated
 * 提供facenet训练模型下载，定期更新
+* [Original Address](https://github.com/davidsandberg/facenet#user-content-pre-trained-models)
 
 ## Pre-trained models
 | Model name      | LFW accuracy | Training dataset | Architecture |
